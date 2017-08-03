@@ -1,0 +1,9 @@
+I made the app icon myself. Please look at the AppIcon folder for source project and .png files for the icon.
+
+Sources for images:
+- https://icons8.com/icon/364/settings
+- https://icons8.com/icon/14099/Settings
+- https://icons8.com/icon/398/play
+— https://icons8.com/icon/5722/Play
+- https://icons8.com/icon/22442/accounting 
+- https://icons8.com/icon/30013/Accounting
